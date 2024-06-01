@@ -1,0 +1,172 @@
+LIST_OF_SUPERHEROES: [
+    "Batman",
+    "Superman",
+    "Wonder Woman",
+    "Spiderman",
+    "Ironman",
+    "Captain America",
+    "Black Widow",
+    "Hulk",
+    "Thor",
+    "Deadpool",
+    "Star Lord",
+    "Thanos",
+    "Groot",
+    "Rocket",
+    "Doctor Strange",
+    "Drax",
+    "Vision",
+    "Jarvis",
+]
+
+SUPERHERO_SYNONYMS:
+    Batman: [
+        "Bruce Wayne"
+    ]
+    Superman: [
+        "Clark Kent"
+    ]
+    Wonder Woman: [
+        "Diana Prince"
+    ]
+    Spiderman: [
+        "Peter Parker"
+    ]
+    Ironman: [
+        "Tony Stark"
+    ]
+    Captain America: [
+        "Steve Rogers"
+    ]
+    Black Widow: [
+        "Natasha Romanoff"
+    ]
+    Hulk: [
+        "Bruce Banner"
+    ]
+    Thor: [
+        "Thor Odinson"
+    ]
+    Deadpool: [
+        "Wade Wilson"
+    ]
+    Star Lord: [
+        "Peter Quill"
+    ]
+    Thanos: [
+        "Thanos"
+    ]
+    Groot: [
+        "Groot"
+    ]
+    Rocket: [
+        "Rocket"
+    ]
+    Doctor Strange: [
+        "Stephen Strange"
+    ]
+    Drax: [
+        "Drax"
+    ]
+    Vision: [
+        "Vision"
+    ]
+    Jarvis: [
+        "Jarvis"
+    ]
+
+MOVIES_LIST_OF_SUPERHEROES:
+    Batman: [
+        "Batman-v-Superman-Dawn-of-Justice.pdf",
+        "Batman_VS_Superman.pdf",
+        "batman-begins-2005.pdf",
+        "the-dark-knight-2008.pdf",
+        "the-dark-knight-rises-2012.pdf",
+    ]
+    Superman: [
+        "Batman-v-Superman-Dawn-of-Justice.pdf",
+        "Man of Steel.pdf",
+    ]
+    Wonder Woman: [
+        "wonder-woman-2017.pdf"
+    ]
+    Spiderman: [
+        "Captain America: Civil War.pdf",
+        "avengers infinity war.pdf",
+        "spider-man-no-way-home-2021.pdf",
+    ]
+    Ironman: [
+        "Avengers: Age of Ultron.txt",
+        "Captain America: Civil War.pdf",
+        "avengers infinity war.pdf",
+        "avengers-endgame.pdf",
+        "iron-man-2008.pdf",
+        "the-avengers-2012.pdf",
+    ]
+    Captain America: [
+        "Captain America: Civil War.pdf",
+        "captain america winter solider.pdf",
+        "captain-america-the-first-avenger-20.pdf",
+        "avengers infinity war.pdf",
+        "avengers-endgame.pdf",
+        "the-avengers-2012.pdf",
+        "Avengers: Age of Ultron.txt",
+    ]
+    Black Widow: [
+        "avengers infinity war.pdf",
+        "avengers-endgame.pdf",
+        "the-avengers-2012.pdf",
+        "Avengers: Age of Ultron.txt",
+    ]
+    Hulk: [
+        "avengers infinity war.pdf",
+        "avengers-endgame.pdf",
+        "the-avengers-2012.pdf",
+        "Avengers: Age of Ultron.txt",
+    ]
+    Thor: [
+        "Avengers: Age of Ultron.txt",
+        "avengers infinity war.pdf",
+        "avengers-endgame.pdf",
+        "the-avengers-2012.pdf",
+        "thor-2011.pdf",
+        "thor-ragnorak-2017.pdf",
+    ]
+    Deadpool: [
+        "Deadpool 2.txt",
+        "deadpool-2016.pdf",
+    ]
+    Star Lord: [
+        "Guardians of the Galaxy vol 2.pdf",
+        "Guardians_of_the_Galaxy_Movie_Transcript.pdf",
+    ]
+    Thanos: [
+        "avengers infinity war.pdf",
+        "avengers-endgame.pdf",
+    ]
+    Groot: [
+        "Guardians of the Galaxy vol 2.pdf",
+        "Guardians_of_the_Galaxy_Movie_Transcript.pdf",
+    ]
+    Rocket: [
+        "Guardians of the Galaxy vol 2.pdf",
+        "Guardians_of_the_Galaxy_Movie_Transcript.pdf",
+    ]
+    Doctor Strange: [
+        "avengers infinity war.pdf",
+        "spider-man-no-way-home-2021.pdf",
+    ]
+    Drax: [
+        "Guardians of the Galaxy vol 2.pdf",
+        "Guardians_of_the_Galaxy_Movie_Transcript.pdf",
+    ]
+    Vision: [
+        "avengers infinity war.pdf",
+        "Avengers: Age of Ultron.txt",
+        "Captain America: Civil War.pdf",
+    ]
+    Jarvis: [
+        "Avengers: Age of Ultron.txt",
+        "the-avengers-2012.pdf",
+        "iron-man-2008.pdf",
+    ]
