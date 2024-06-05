@@ -1,3 +1,4 @@
+# List of all the superheroes we are interested in
 LIST_OF_SUPERHEROES: [
     "Batman",
     "Superman",
@@ -19,6 +20,8 @@ LIST_OF_SUPERHEROES: [
     "Jarvis",
 ]
 
+# Every superhero has a real name and a mask name. This is a list of all the real names of the superheroes
+# We will use this to identify the superhero in the dialogues and scripts
 SUPERHERO_SYNONYMS:
     Batman: [
         "Bruce Wayne"
@@ -75,6 +78,8 @@ SUPERHERO_SYNONYMS:
         "Jarvis"
     ]
 
+# List of all the movies in which the superheroes have appeared
+# We will use this to separate the dialogues of each superhero
 MOVIES_LIST_OF_SUPERHEROES:
     Batman: [
         "Batman-v-Superman-Dawn-of-Justice.pdf",
