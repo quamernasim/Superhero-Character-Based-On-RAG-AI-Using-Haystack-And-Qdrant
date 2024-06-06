@@ -1,12 +1,7 @@
 from os.path import join as pjoin
-import yaml
-from haystack import Pipeline
-from haystack_integrations.document_stores.qdrant import QdrantDocumentStore
 from haystack_integrations.components.retrievers.qdrant import QdrantEmbeddingRetriever
 from haystack.components.generators import HuggingFaceTGIGenerator
 from haystack_integrations.components.embedders.fastembed import FastembedTextEmbedder
-from haystack.components.builders import PromptBuilder
-from haystack.components.others import Multiplexer
 
 from utils import get_superhero_names, load_document_store, build_prompt, build_rag_pipeline
 
