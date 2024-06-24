@@ -18,7 +18,7 @@ embedding_model = 'BAAI/bge-small-en-v1.5'
 embedding_model = 'BAAI/bge-small-en-v1.5'
 llm_model = "meta-llama/Meta-Llama-3-8B-Instruct"
 max_new_tokens = 250
-number_of_documents_to_retrieve = 10
+number_of_documents_to_retrieve = 5
 
 config_path = pjoin(root, config_file)
 
