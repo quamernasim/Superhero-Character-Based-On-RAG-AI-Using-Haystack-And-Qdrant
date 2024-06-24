@@ -3,17 +3,19 @@ from streamlit_chat import message
 
 from os.path import join as pjoin
 import yaml
+
 root = '.'
 data_folder = 'data'
 script_folder = 'scripts'
 dialogue_folder = 'dialogues'
 config_file = 'config.yaml'
+
 with open(pjoin(root, config_file), 'r') as f:
     config = yaml.safe_load(f)
+
 superheroes = config['LIST_OF_SUPERHEROES']
 
 from query import get_response
-
 
 def api_calling(question, superhero):
     message = get_response(question, superhero)
