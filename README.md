@@ -1,4 +1,9 @@
 # Superhero-Character-Based-On-RAG-AI-Using-Haystack-And-Qdrant
+
+<p align="center">
+  <img src="assets/cover.jpeg" alt="Superhero Character AI" height="400" />
+</p>
+
 We are going to showcase how to build a superhero character AI - where users can chat with their favourite superheroes.
 
 ## Introduction
